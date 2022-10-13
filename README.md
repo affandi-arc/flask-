@@ -1,2 +1,2 @@
-### flask
-This Web was created by Python Using Flaks Framework
+### Flask
+This Web was created by Python Using Flask Framework
